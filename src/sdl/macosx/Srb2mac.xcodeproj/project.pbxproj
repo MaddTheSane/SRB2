@@ -1311,7 +1311,7 @@
 				);
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				INFOPLIST_FILE = Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.srb2.Srb2mac;
+				PRODUCT_BUNDLE_IDENTIFIER = org.srb2.Srb2mac;
 				PRODUCT_NAME = Srb2mac;
 			};
 			name = Debug;
@@ -1328,7 +1328,7 @@
 					FORCESDLMAIN,
 				);
 				INFOPLIST_FILE = Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = com.srb2.Srb2mac;
+				PRODUCT_BUNDLE_IDENTIFIER = org.srb2.Srb2mac;
 				PRODUCT_NAME = Srb2mac;
 			};
 			name = Release;
