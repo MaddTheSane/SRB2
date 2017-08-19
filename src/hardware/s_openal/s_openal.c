@@ -37,8 +37,8 @@ FILE* logstream = NULL;
 #endif
 
 #ifdef __APPLE__
-#include <al.h> //Main AL
-#include <alc.h> //Helpers
+#include <OpenAL/al.h> //Main AL
+#include <OpenAL/alc.h> //Helpers
 #else
 #include <AL/al.h> //Main AL
 #include <AL/alc.h> //Helpers
